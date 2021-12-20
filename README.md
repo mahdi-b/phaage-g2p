@@ -1,2 +1,2 @@
 # phaage-g2p
- epscor delaware
+ EPSCOR U. Delaware
