@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/phaage-g2p.iml" filepath="$PROJECT_DIR$/.idea/phaage-g2p.iml" />
+      <module fileurl="file://$APPLICATION_CONFIG_DIR$/projects/.idea/projects.iml" filepath="$APPLICATION_CONFIG_DIR$/projects/.idea/projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ICS434-Sp2022/morea/introduction/resources/.idea/resources.iml" filepath="$PROJECT_DIR$/../ICS434-Sp2022/morea/introduction/resources/.idea/resources.iml" />
+      <module fileurl="file://$USER_HOME$/Dropbox/courses/_ICS434_691_F2020/material/week_1/.idea/week_1.iml" filepath="$USER_HOME$/Dropbox/courses/_ICS434_691_F2020/material/week_1/.idea/week_1.iml" />
     </modules>
   </component>
 </project>
